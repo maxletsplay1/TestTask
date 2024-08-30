@@ -4,8 +4,8 @@
 
 - PHP >= 8.1
 - Composer
-- Node.js >= 16.x
-- npm или yarn
+- Node.js >= 20.x
+- npm
 
 ## Установка
 
