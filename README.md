@@ -12,8 +12,8 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/yourusername/yourprojectname.git
-   cd yourprojectname
+   git clone https://github.com/maxletsplay1/TestTask.git
+   cd TestTask
    ```
 
 2. Установите зависимости
